@@ -1,0 +1,144 @@
+/* .container{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%; */
+    /* transform: translate(-50%, -50%); */
+
+#circle1{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 640px;
+    top: 330px;    
+    background: rgb(32, 0, 148);
+    border-radius: 50%;
+}
+
+#circle2{
+    position: absolute;
+    width: 245px;
+    height: 245px;
+    left: 598px;
+    top: 289px;
+    background: rgb(55, 0, 255);
+    border-radius: 50%;
+    opacity: 0.7;
+}
+
+#circle3{
+    position: absolute;
+width: 317px;
+height: 317px;
+left: 562px;
+top: 253px;
+background: rgb(55, 0, 255);
+border-radius: 50%;
+opacity: 0.6;
+
+}
+
+#circle4{
+    position: absolute;
+    width: 395px;
+    height: 395px;
+    left: 523px;
+    top: 214px;
+background: rgb(55, 0, 255);
+border-radius: 50%;
+opacity: 0.5;
+
+}
+
+#circle5{
+    position: absolute;
+    width: 462px;
+    height: 462px;
+    left: 489px;
+    top: 180px;
+background: rgb(55, 0, 255);
+border-radius: 50%;
+opacity: 0.4;
+}
+
+#circle6{
+    position: absolute;
+    width: 541px;
+    height: 541px;
+    left: 450px;
+    top: 141px;
+background: rgb(55, 0, 255);
+border-radius: 50%;
+opacity: 0.3;
+
+}
+
+
+#circle7{
+    position: absolute;
+    width: 631px;
+    height: 631px;
+    left: 402px;
+    top: 93px;
+background: rgb(55, 0, 255);
+border-radius: 50%;
+opacity: 0.2;
+
+}
+
+
+#circle8{
+    position: absolute;
+    width: 719px;
+    height: 719px;
+    left: 361px;
+    top: 52px;
+    
+background: rgb(55, 0, 255);
+border-radius: 50%;
+opacity: 0.05;
+
+}
+
+
+#circle9{
+    position: absolute;
+    width: 821px;
+    height: 821px;
+    left: 310px;
+    top: 1px;
+    border-radius: 50%;
+    border: 3px solid  rgb(55, 0, 255);
+    box-sizing: border-box;
+    opacity: 0.05;
+
+}
+
+#circle10{
+    position: absolute;
+width: 923px;
+height: 923px;
+left: 259px;
+top: -49px;
+
+border: 2px solid rgb(55, 0, 255);
+box-sizing: border-box;
+border-radius: 50%;
+opacity: 0.03;
+
+}
+
+
+#circle11{
+    position: absolute;
+    width: 1047px;
+    height: 1047px;
+    left: 197px;
+    top: -110px;
+    
+    border: 2px solid rgb(55, 0, 255);
+    box-sizing: border-box;
+border-radius: 50%;
+opacity: 0.03;
+
+}
